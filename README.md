@@ -11,15 +11,15 @@
 
 ## 🍀About Me
 
-- 💻 I’m currently working on **Research and Software Development**
+- 💻 I’m currently working on **Research and Artificial intelligence**
 
-- 🌱 I’m currently learning **Algorithm, Cyber Security and Artificial intelligence**
+- 🌱 I’m currently learning **Algorithm, Cyber Security and Software Development**
 
 - 🍂 I’m looking to collaborate on **OpenSource Projects**
 
 - 🔗 All of my projects are available at **[GitHub Profile](https://github.com/elite1122/)**
 
-- 📧  help.shohan@gmail.com
+- 📧  elitetuber1122@gmail.com
 
 
 
@@ -29,6 +29,7 @@
     <a href="http://www.cplusplus.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
       
  
 </p>
