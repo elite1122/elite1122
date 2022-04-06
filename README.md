@@ -19,7 +19,7 @@
 
 - 🔗 All of my projects are available at **[GitHub Profile](https://github.com/elite1122/)**
 
-- 📧  elitetuber1122@gmail.com
+- 📧  help.elite@outlook.com
 
 
 
