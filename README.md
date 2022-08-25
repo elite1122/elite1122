@@ -32,6 +32,8 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
+    <a href="https://html.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html.png"/> </a>
+    <a href="https://freeicons.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css.png"/> </a>
       
  
 </p>
