@@ -20,7 +20,16 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Next.js<br>🎯 Goals: Become Senior Developer by 2025<br>🎲 Fun fact: I write code that occasionally works... just like the first ever program in 1843, written by Ada Lovelace!<br>🔗 All of my projects are available at **[GitHub Profile](https://github.com/elite1122/)**<br>📧  rasheduzzamanelite@gmail.com<br>🏡 Jhenaidah, Bangladesh</p>
+<p align="left">
+  ✨ Creating bugs since 2020<br>
+  📚 I'm currently learning Next.js<br>
+  🎯 Goals: Become Senior Developer by 2025<br>
+  🎲 Fun fact: I write code that occasionally works... just like the first ever program in 1843, written by Ada Lovelace!<br>
+  🔗 All of my projects are available at <a href="https://github.com/elite1122/" target="_blank">GitHub Profile</a><br>
+  📧 <a href="mailto:rasheduzzamanelite@gmail.com">rasheduzzamanelite@gmail.com</a><br>
+  🏡 Jhenaidah, Bangladesh
+</p>
+
 
 ###
 
