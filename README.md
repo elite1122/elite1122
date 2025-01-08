@@ -90,29 +90,13 @@
 
 ###
 
-<p align="center">
-    <a href="https://github.com/elite1122/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Md. Rasheduzzaman Elite's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=elite1122&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=elite1122&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=elite1122&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elite1122&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/elite1122/github-readme-stats"><img alt="Md. Rasheduzzaman Elite's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elite1122&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/elite1122/github-readme-stats"><img alt="Md. Rasheduzzamn Elite's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elite1122&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-
-<br/>
-
-<a href="https://github.com/elite1122/github-readme-activity-graph"><img alt="Md. Rasheduzzaman Elite's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elite1122&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
+---
+[![](https://visitcount.itsvg.in/api?id=elite1122&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## ❤ Views and Followers
