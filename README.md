@@ -1,44 +1,84 @@
-<p align="center"> 
-<a href="#"> <img width="20%" src="https://i.imgur.com/G9gWb9M.jpg"  /></a> 
+<div align="center">
+  <img height="271" src="https://i.ibb.co.com/HNBhvDD/cover.jpg"  />
+</div>
 
-</p>
+###
 
-<h2 align="center" style="color:lightblue"> السلام عليكم </h2>
+<h1 align="left">Md. Rasheduzzaman Elite</h1>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Elite</h1>
+###
 
-<h3 align="center">I'm a student, coder and system developer.</h3>
+<h2 align="left">Full Stack Web Developer</h2>
 
-## 🍀About Me
+###
 
-- 💻 I’m currently working on **Research and Artificial intelligence**
+<h3 align="left">About me</h3>
 
-- 🌱 I’m currently learning **Algorithm, Cyber Security and Software Development**
+###
 
-- 🍂 I’m looking to collaborate on **OpenSource Projects**
+<p align="left">Hello, I'm a Full Stack Web Developer from Bangladesh, and I make beautiful Web Applications.</p>
 
-- 🔗 All of my projects are available at **[GitHub Profile](https://github.com/elite1122/)**
+###
 
-- 📧  rasheduzzamanelite@gmail.com
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Next.js<br>🎯 Goals: Become Senior Developer by 2025<br>🎲 Fun fact: I write code that occasionally works... just like the first ever program in 1843, written by Ada Lovelace!<br>🔗 All of my projects are available at **[GitHub Profile](https://github.com/elite1122/)**<br>📧  rasheduzzamanelite@gmail.com<br>🏡 Jhenaidah, Bangladesh</p>
 
+###
 
+<h2 align="left">I code with</h2>
 
-## 🚀 Programming Languages:
+###
 
-<p align="left">
-     <a href="https://www.learn-c.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c.png"/> </a>
-    <a href="http://www.cplusplus.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
-    <a href="https://html.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html.png"/> </a>
-    <a href="https://freeicons.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css.png"/> </a>
-      
- 
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+###
+
+<h2 align="left">Social Links</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/rzelite/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/rz_elite_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.facebook.com/elite1122" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
 
 <p align="center">
     <a href="https://github.com/elite1122/github-readme-streak-stats">
