@@ -32,7 +32,7 @@ I enjoy turning ideas into practical digital solutions, exploring new technologi
 - 💻 **Focus:** Full Stack Web Development
 - 🌱 **Currently Learning:** Next.js and modern web technologies
 - 🚀 **Interests:** Scalable applications, clean code, and intuitive UI/UX
-- 📍 **Location:** Jhenaidah, Bangladesh
+- 📍 **Location:** Dhaka, Bangladesh
 - 📂 **Projects:** [Explore my GitHub repositories](https://github.com/elite1122?tab=repositories)
 - 📧 **Contact:** [rasheduzzamanelite@gmail.com](mailto:rasheduzzamanelite@gmail.com)
 
