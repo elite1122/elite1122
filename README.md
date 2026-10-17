@@ -1,116 +1,110 @@
-<div align="center">
-  <img height="200" src="https://i.ibb.co.com/Y4B5trLC/Design-new-cool-professional-look-2-K-20261017000734.jpg"  />
-</div>
+# 👋 Hi, I'm Md. Rasheduzzaman Elite
 
-###
+### Full Stack Web Developer | Building Modern Web Applications
 
-<h1 align="left">Md. Rasheduzzaman Elite</h1>
-
-###
-
-<h2 align="left">Full Stack Web Developer</h2>
-
-###
-
-<h3 align="left">About me</h3>
-
-###
-
-<p align="left">Hello, I'm a Full Stack Web Developer from Bangladesh, and I make beautiful Web Applications.</p>
-
-###
-
-<p align="left">
-  ✨ Creating bugs since 2020<br>
-  📚 I'm currently learning Next.js<br>
-  🎯 Goals: Become Senior Developer by 2025<br>
-  🎲 Fun fact: I write code that occasionally works... just like the first ever program in 1843, written by Ada Lovelace!<br>
-  🔗 All of my projects are available at <a href="https://github.com/elite1122/" target="_blank">GitHub Profile</a><br>
-  📧 <a href="mailto:rasheduzzamanelite@gmail.com">rasheduzzamanelite@gmail.com</a><br>
-  🏡 Jhenaidah, Bangladesh
+<p align="center">
+  <img src="https://i.ibb.co.com/Y4B5trLC/Design-new-cool-professional-look-2-K-20261017000734.jpg" alt="Md. Rasheduzzaman Elite - Developer Profile" width="100%" />
 </p>
 
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-</div>
-
-###
-
-<h2 align="left">Social Links</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/rzelite/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+<p align="center">
+  <a href="https://github.com/elite1122">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://x.com/rz_elite_" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+  <a href="https://www.linkedin.com/in/rzelite/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/elite1122" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
+  <a href="https://x.com/rz_elite_">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-</div>
+  <a href="mailto:rasheduzzamanelite@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
+---
 
-###
+## 👨‍💻 About Me
 
-<h3 align="left">🔥   My Stats :</h3>
+Hello! I'm **Md. Rasheduzzaman Elite**, a Full Stack Web Developer from Bangladesh passionate about building modern, responsive, and user-friendly web applications.
 
-###
+I enjoy turning ideas into practical digital solutions, exploring new technologies, and continuously improving my development skills.
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=elite1122&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+- 💻 **Focus:** Full Stack Web Development
+- 🌱 **Currently Learning:** Next.js and modern web technologies
+- 🚀 **Interests:** Scalable applications, clean code, and intuitive UI/UX
+- 📍 **Location:** Jhenaidah, Bangladesh
+- 📂 **Projects:** [Explore my GitHub repositories](https://github.com/elite1122?tab=repositories)
+- 📧 **Contact:** [rasheduzzamanelite@gmail.com](mailto:rasheduzzamanelite@gmail.com)
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elite1122&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elite1122&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 🛠️ Tech Stack
 
-###
+### Frontend Development
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,tailwind,bootstrap" alt="Frontend technologies" />
+</p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=elite1122">
-</a>
-<a href="https://github.com/elite1122?tab=followers"><img src="https://img.shields.io/github/followers/elite1122?label=Followers&style=social" alt="GitHub Badge"></a>
+### Backend Development & Databases
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,php" alt="Backend technologies and databases" />
+</p>
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,c,cpp,php" alt="Programming languages" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elite1122&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elite1122&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=elite1122&theme=tokyonight&hide_border=true" height="180" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rzelite/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="Connect on LinkedIn" />
+  </a>
+  <a href="https://x.com/rz_elite_">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=flat-square&logo=x" alt="Follow on X" />
+  </a>
+  <a href="https://www.facebook.com/elite1122">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=flat-square&logo=facebook" alt="Connect on Facebook" />
+  </a>
+  <a href="mailto:rasheduzzamanelite@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Contact by email" />
+  </a>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elite1122&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/elite1122?tab=followers">
+    <img src="https://img.shields.io/github/followers/elite1122?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+</p>
+
+<p align="center">
+  <i>“Great software is built with curiosity, consistency, and a commitment to continuous learning.”</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
